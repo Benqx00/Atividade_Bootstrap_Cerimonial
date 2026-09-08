@@ -29,3 +29,138 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+:root {
+    --color-accent-red: #c8393f;
+    --color-btn-maroon: #7c2a2a;
+    --color-btn-maroon-hover: #641f1f;
+    --color-box-yellow: #f9f6a6;
+    --color-text-dark: #1a1a1a;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--color-text-dark);
+}
+
+/* ===== NAVBAR ===== */
+.logo-font {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.9rem;
+    font-weight: 700;
+    color: #111;
+}
+
+.navbar-nav .nav-link {
+    color: #222;
+    font-weight: 500;
+}
+
+.navbar-nav .nav-link-active {
+    color: var(--color-accent-red);
+    font-weight: 600;
+}
+
+/* ===== HERO ===== */
+.hero-section {
+    position: relative;
+    overflow: hidden;
+    min-height: 420px;
+    background: linear-gradient(135deg, #3e5c3e, #6b8f47);
+}
+
+.hero-img {
+    display: block;
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+}
+
+.btn-quote {
+    position: absolute;
+    left: 2.5rem;
+    top: 58%;
+    background-color: var(--color-btn-maroon);
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    letter-spacing: 0.3px;
+    padding: 0.9rem 2.2rem;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.btn-quote:hover,
+.btn-quote:focus {
+    background-color: var(--color-btn-maroon-hover);
+    color: #fff;
+}
+
+/* ===== SERVIÇOS ===== */
+.services-section {
+    background-color: #fff;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.services-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.6rem;
+    letter-spacing: 0.5px;
+    color: var(--color-accent-red);
+}
+
+.services-box {
+    background-color: var(--color-box-yellow);
+    border-radius: 18px;
+    max-width: 760px;
+    text-align: left;
+}
+
+.services-text {
+    font-weight: 700;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: var(--color-text-dark);
+}
+
+.rose {
+    position: absolute;
+    width: 70px;
+    height: auto;
+    pointer-events: none;
+}
+
+.rose-left {
+    left: -30px;
+    bottom: -25px;
+    transform: scaleX(-1) rotate(8deg);
+}
+
+.rose-right {
+    right: -35px;
+    bottom: -40px;
+    width: 90px;
+    transform: rotate(-6deg);
+}
+
+/* ===== RESPONSIVO ===== */
+@media (max-width: 576px) {
+    .btn-quote {
+        left: 1rem;
+        top: auto;
+        bottom: 1rem;
+        font-size: 0.85rem;
+        padding: 0.6rem 1.2rem;
+    }
+
+    .rose {
+        width: 45px;
+    }
+
+    .rose-right {
+        width: 55px;
+    }
+}

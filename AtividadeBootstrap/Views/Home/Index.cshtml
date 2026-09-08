@@ -1,8 +1,52 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Início";
+    Layout = "_Layout";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!-- ===== NAVBAR ===== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white py-3 border-bottom">
+    <div class="container-fluid px-4 px-lg-5">
+        <a class="navbar-brand logo-font" href="@Url.Action("Index", "Home")">Enlace</a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu"
+                aria-controls="navMenu" aria-expanded="false" aria-label="Abrir menu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse justify-content-end" id="navMenu">
+            <ul class="navbar-nav gap-lg-4 text-center">
+                <li class="nav-item"><a class="nav-link" href="#sobre">Sobre</a></li>
+                <li class="nav-item"><a class="nav-link nav-link-active" href="#servicos">Serviços</a></li>
+                <li class="nav-item"><a class="nav-link" href="#depoimentos">Depoimentos</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- ===== HERO ===== -->
+<section class="hero-section position-relative">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpG8a7ndznx7IuanGjPPb1t5QKXBZtFgTlB6l6AvbapV-ddWFe53z3nA&s=10"
+         alt="Casal em cerimônia de casamento ao ar livre"
+         class="hero-img w-100"
+         onerror="this.style.display='none';" />
+
+    <a href="#orcamento" class="btn btn-quote position-absolute">Solicitar orçamento</a>
+</section>
+
+<!-- ===== SERVIÇOS ===== -->
+<section id="servicos" class="services-section text-center py-5">
+    <h2 class="services-title mb-4">Serviços</h2>
+
+    <div class="services-box position-relative mx-auto p-4 p-md-5">
+        <img src="" class="rose rose-left" alt="" aria-hidden="true" />
+
+        <p class="services-text mb-0">
+            Na Elance Cerimonial, transformamos momentos únicos em memórias inesquecíveis.
+            Nosso trabalho vai muito além da condução de uma cerimônia:
+            cuidamos de cada detalhe para que sua celebração reflita, de forma autêntica,
+            a história e a essência de quem você é.
+        </p>
+
+        <img src="" class="rose rose-right" alt="" aria-hidden="true" />
+    </div>
+</section>
