@@ -23,6 +23,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Home/Depoimentos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXBvaW1lbnRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -31,8 +35,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Home/Servicos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Shared/EnlaceLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVubGFjZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Shared/_LayoutDepoimentos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZXBvaW1lbnRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Shared/_ValidationScriptsPartial.cshtml]

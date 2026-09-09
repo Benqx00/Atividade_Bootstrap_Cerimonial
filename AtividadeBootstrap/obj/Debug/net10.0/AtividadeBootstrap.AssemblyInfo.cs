@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeBootstrap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788f7a15948a741e82fe624ad077d9500e9d75eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6e94730f6a0aed52a4b96101c7cfefacd0a5e46")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeBootstrap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeBootstrap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

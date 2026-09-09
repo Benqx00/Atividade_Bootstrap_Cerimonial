@@ -22,7 +22,6 @@ C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimoni
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\scopedcss\bundle\AtividadeBootstrap.styles.css
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\scopedcss\projectbundle\AtividadeBootstrap.bundle.scp.css
-C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\compressed\nqfzlglezn-{0}-qxz277svyn-qxz277svyn.gz
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\compressed\if8lrq36ib-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\compressed\ef0fndnoeb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\compressed\2wwu8cuw48-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -96,3 +95,6 @@ C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimoni
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\AtividadeBootstrap.pdb
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\AtividadeBootstrap.genruntimeconfig.cache
 C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\ref\AtividadeBootstrap.dll
+C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\compressed\hbmpis2w62-{0}-wiuj47isdd-wiuj47isdd.gz
+C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\compressed\nqfzlglezn-{0}-ku6tsl6f0x-ku6tsl6f0x.gz
+C:\Users\DS1\Desktop\Atividade_Bootstrap_Cerimonial\Atividade_Bootstrap_Cerimonial\AtividadeBootstrap\obj\Debug\net10.0\compressed\xowemdafa2-{0}-66iydawun3-66iydawun3.gz
