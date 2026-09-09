@@ -9,14 +9,8 @@
 
     <title>@ViewData["Title"] - Enlace</title>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap"
-          rel="stylesheet">
-
     <link rel="stylesheet"
-          href="~/css/enlace.css"
+          href="~/css/sobre.css"
           asp-append-version="true" />
 
 </head>
@@ -33,13 +27,13 @@
 
         <nav class="enlace-nav">
 
-            <a asp-controller="Sobre"
+            <a class="active"
+               asp-controller="Sobre"
                asp-action="Sobre">
                 Sobre
             </a>
 
-            <a class="active"
-               asp-controller="Servicos"
+            <a asp-controller="Servicos"
                asp-action="Servicos">
                 Serviços
             </a>

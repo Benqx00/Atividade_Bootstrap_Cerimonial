@@ -39,8 +39,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Home/Sobre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Shared/EnlaceLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVubGFjZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Shared/EnlaceSobreLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVubGFjZVNvYnJlTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DS1/Desktop/Atividade_Bootstrap_Cerimonial/Atividade_Bootstrap_Cerimonial/AtividadeBootstrap/Views/Shared/Error.cshtml]

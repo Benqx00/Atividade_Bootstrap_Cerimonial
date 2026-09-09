@@ -10,10 +10,13 @@ namespace EnlaceMVC.Controllers
             var model = new DepoimentosViewModel
             {
                 NomeEmpresa = "Enlace",
-                MenuSobre = "Sobre",
+
+                MenuSobre = "Sobre nós",
                 MenuServicos = "Serviços",
                 MenuDepoimentos = "Depoimentos",
+
                 BotaoOrcamento = "Solicitar orçamento",
+
                 Titulo = "Depoimentos",
 
                 Depoimentos = new List<DepoimentoItem>
@@ -22,7 +25,7 @@ namespace EnlaceMVC.Controllers
                     {
                         Nome = "Juniper e Luciana",
                         Texto = "Equipe excelente e prestativa",
-                        Imagem = "~/img/depoimentos/depoimento1.jpg",
+                        Imagem = "/img/depoimentos/depoimentos1.jpg",
                         Cor = "#8f008d"
                     },
 
@@ -30,7 +33,7 @@ namespace EnlaceMVC.Controllers
                     {
                         Nome = "Tatiana e Luiz",
                         Texto = "Equipe excelente e prestativa",
-                        Imagem = "~/img/depoimentos/depoimento2.jpg",
+                        Imagem = "/img/depoimentos/depoimentos2.jpg",
                         Cor = "#8f008d"
                     },
 
@@ -38,7 +41,7 @@ namespace EnlaceMVC.Controllers
                     {
                         Nome = "Roberto e Claudia",
                         Texto = "Equipe excelente e prestativa",
-                        Imagem = "~/img/depoimentos/depoimento3.jpg",
+                        Imagem = "/img/depoimentos/depoimentos3.jpg",
                         Cor = "#b5b900"
                     },
 
@@ -46,7 +49,7 @@ namespace EnlaceMVC.Controllers
                     {
                         Nome = "Silvia e Antonio",
                         Texto = "Equipe excelente e prestativa",
-                        Imagem = "~/img/depoimentos/depoimento4.jpg",
+                        Imagem = "/img/depoimentos/depoimentos4.jpg",
                         Cor = "#d7171f"
                     }
                 }

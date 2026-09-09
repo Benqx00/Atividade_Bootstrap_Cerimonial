@@ -10,11 +10,14 @@ namespace EnlaceMVC.Controllers
             var model = new ServicosViewModel
             {
                 NomeEmpresa = "Enlace",
-                MenuSobre = "Sobre",
+                MenuSobre = "Sobre nós",
                 MenuServicos = "Serviços",
                 MenuDepoimentos = "Depoimentos",
+
                 Titulo = "Serviços",
+
                 BotaoOrcamento = "Solicitar orçamento",
+
                 Texto = "Na Enlace Cerimonial, transformamos momentos únicos em memórias inesquecíveis. Nosso trabalho vai muito além da condução de uma cerimônia: cuidamos de cada detalhe para que sua celebração reflita, de forma autêntica, a história e a essência de quem você é."
             };
 
